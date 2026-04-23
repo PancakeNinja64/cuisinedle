@@ -7,6 +7,12 @@ Built with:
 - TypeScript
 - Tailwind CSS
 
+## App Screenshot
+
+Add a screenshot file (for example `public/screenshot.png`) and keep/update this line:
+
+![Dishdle app screenshot](./public/screenshot)
+
 ## Features
 
 - Daily mode with one deterministic dish per day
