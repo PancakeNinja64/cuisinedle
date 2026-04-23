@@ -11,7 +11,7 @@ Built with:
 
 Add a screenshot file (for example `public/screenshot.png`) and keep/update this line:
 
-![Dishdle app screenshot](./public/screenshot)
+![Dishdle app screenshot](./public/screenshot.png)
 
 ## Features
 
